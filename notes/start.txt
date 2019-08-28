@@ -1,0 +1,3 @@
+killall -9 node
+npm start --reset-cache
+react-native run-ios
